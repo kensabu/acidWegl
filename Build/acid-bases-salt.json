@@ -1,0 +1,16 @@
+{
+"companyName": "escavel",
+"productName": "Acids,Bases,Salts",
+"productVersion": "0.1",
+"dataUrl": "acid-bases-salt.data.unityweb",
+"wasmCodeUrl": "acid-bases-salt.wasm",
+"wasmFrameworkUrl": "acid-bases-salt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
